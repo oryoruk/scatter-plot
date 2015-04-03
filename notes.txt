@@ -1,0 +1,13 @@
+I should look into Bokeh, Plotly, etc. to be able to use it with python inorder to use it in a more portable way.
+
+I can have a simple javascript version also, with bunch of textboxes to enter information:
+-Data
+-Axis
+-Range
+etc.
+But this doesn't sound the way it should be done.
+
+3rd option is to do it in R/Shiny.
+
+
+I will look into these technologies next.
